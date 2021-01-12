@@ -178,8 +178,6 @@ https://www.quora.com/
 
 # Team members:
 
-## Ahmed Akram  
-
-## Moaz Nabil
-
-## Mostafa Ahmed
+ Ahmed Akram  
+ Moaz Nabil
+ Mostafa Ahmed
