@@ -176,8 +176,7 @@ https://en.cppreference.com/w/c
 https://stackoverflow.com/
 https://www.quora.com/
 
-# Team members:
-
- Ahmed Akram  
- Moaz Nabil
- Mostafa Ahmed
+## Team members:
+* Ahmed Akram  
+* Moaz Nabil
+* Mostafa Ahmed
